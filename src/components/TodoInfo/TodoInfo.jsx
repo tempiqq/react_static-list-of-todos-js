@@ -1,4 +1,4 @@
-// Add the required props
+import './TodoInfo.scss';
 import { UserInfo } from '../UserInfo';
 
 export const TodoInfo = ({ todo }) => {
